@@ -1,1 +1,1 @@
-Covered difference lexicon based approaches of Sentiment Analysis.
+Covered different lexicon based approaches of Sentiment Analysis.
